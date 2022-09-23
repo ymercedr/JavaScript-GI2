@@ -8,8 +8,8 @@ var tomHigherBMI = true;
 
 var tomBMI1 = tomMass1 / (tomHeight1 * tomHeight1);
 var jerryBMI1 = jerryMass1 / (jerryHeight1 * jerryHeight1);
-console.log(tomBMI1);
-console.log(jerryBMI1);
+// console.log(tomBMI1);
+// console.log(jerryBMI1);
 
 if (tomBMI1 > jerryBMI1) {
   tomHigherBMI = true;
